@@ -1,0 +1,38 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.cabecalho{
+padding: 24px0;
+background-color: rgb(138, 138,255);
+color: rgb(124,0,0);
+display: flex;
+justify-content: space-around;
+}
+
+.cabecalholisregem{
+display: inline-block;
+margin: o 90px;
+padding: 23px 0;
+font-size: 24px;
+}
+
+.sobre-imagem{
+width: 24%;
+}
+.sobre{
+background-image: url(img/rectangle/2.png);
+color: aliceblue;
+display: flex;
+justify-content: center;
+align-items: center;
+pad: 58px 0;
+}
+.sobre-conteudo{
+width: 43%;
+}
+
+.sobre-titulo{
+    padding: 98px 0;
+}
